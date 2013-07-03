@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/sharedworkforce/sharedworkforce.git
-  revision: 8bd2d9863c135e55c7286cd101361369d8eaedbd
+  revision: 01a720d0888c1ea6558cad0e6038a7452e88988e
   specs:
     shared_workforce (0.3.0)
       activesupport
