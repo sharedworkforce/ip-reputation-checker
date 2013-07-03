@@ -1,13 +1,17 @@
 <form style="border: 2px solid green; padding: 6px;">
   <p>
-    <label for="answer">Copy and paste the IP address, fill out the CAPTCHA and enter the IP address status from the reputation result:</label>
+    <ul>
+      <li>Copy and paste the IP address in to the box on the page below.</li>
+      <li>Fill out the CAPTCHA and submit the form.</li>
+      <li>Enter IP address status from the reputation result (e.g. Undisclosed).</li>
+    </ul>
   </p>
 
+  <strong>IP address to check:</strong>
+   <pre>{ip_address}</pre>
+
   <p>
-    <input type="text" name="ip" value="{ip_address}" />
-  </p>
- 
-  <p>
+    <label for="answer">IP address reputation result:</label>
     <input type="text" name="answer" id="answer" value="Undisclosed">
   </p>
   
