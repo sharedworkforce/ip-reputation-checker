@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:sharedworkforce/sharedworkforce.git
+  remote: git://github.com/sharedworkforce/sharedworkforce.git
   revision: 8bd2d9863c135e55c7286cd101361369d8eaedbd
   specs:
     shared_workforce (0.3.0)
